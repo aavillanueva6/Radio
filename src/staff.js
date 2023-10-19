@@ -1,8 +1,9 @@
+// static file to pull data for development
 const staff = [
   {
     name: {
-      first: 'Staff1FN',
-      last: 'Staff1LN',
+      first: 'Bridget',
+      last: 'Sullivan',
     },
     image: 'https://picsum.photos/200',
     bio: 'Staff 1 bio goes here',
@@ -11,8 +12,8 @@ const staff = [
   },
   {
     name: {
-      first: 'Staff2FN',
-      last: 'Staff2LN',
+      first: 'Charlene',
+      last: 'Norton',
     },
     image: 'https://picsum.photos/201',
     bio: 'Staff 2 bio goes here',
@@ -21,8 +22,8 @@ const staff = [
   },
   {
     name: {
-      first: 'Staff3FN',
-      last: 'Staff3LN',
+      first: 'Rogelio',
+      last: "O'Neil",
     },
     image: 'https://picsum.photos/202',
     bio: 'Staff 3 bio goes here',
@@ -31,8 +32,8 @@ const staff = [
   },
   {
     name: {
-      first: 'Staff4FN',
-      last: 'Staff4LN',
+      first: 'Dena',
+      last: 'Palmer',
     },
     image: 'https://picsum.photos/203',
     bio: 'Staff 4 bio goes here',

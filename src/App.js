@@ -6,6 +6,7 @@ import React from 'react';
 import StaffDisplay from './components/StaffDisplay';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Form from './components/Form';
 
 import staff from './staff';
 
@@ -15,6 +16,7 @@ function App() {
       <Header />
 
       <StaffDisplay staff={staff} />
+      <Form />
       <Footer />
     </div>
   );

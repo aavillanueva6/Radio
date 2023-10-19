@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/wetf_logo.png';
+import logo from '../assets/images/wetf_logo.png';
 
 export default function Header(props) {
   return (

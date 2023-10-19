@@ -55,7 +55,7 @@ export default function Form() {
 
   return (
     <div className="container">
-      <p className="row">Contact Us</p>
+      <p className="row text-primary fw-semibold fs-3">Contact Us</p>
       <form className="form row">
         <div className="row">
           <input
@@ -64,7 +64,7 @@ export default function Form() {
             onChange={handleInputChange}
             type="email"
             placeholder="email"
-            className="col-4"
+            className="col-4 text-secondary"
           />
           <input
             value={name}
@@ -72,7 +72,7 @@ export default function Form() {
             onChange={handleInputChange}
             type="text"
             placeholder="name"
-            className="col-4"
+            className="col-4 text-secondary"
           />
         </div>
         <div className="row">
@@ -82,11 +82,15 @@ export default function Form() {
             onChange={handleInputChange}
             type="textarea"
             placeholder="message to the staff"
-            className="col-8"
+            className="col-8 text-secondary"
           />
         </div>
         <div className="row">
-          <button className="col-2" type="button" onClick={handleFormSubmit}>
+          <button
+            className="col-2 text-secondary fw-medium bg-primary-subtle "
+            type="button"
+            onClick={handleFormSubmit}
+          >
             Submit Form
           </button>
         </div>

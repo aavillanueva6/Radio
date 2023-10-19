@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Radio/static/css/main.db798329.css",
+    "main.js": "/Radio/static/js/main.e88c83ce.js",
+    "static/js/787.8ba94337.chunk.js": "/Radio/static/js/787.8ba94337.chunk.js",
+    "static/media/wetf_logo.png": "/Radio/static/media/wetf_logo.3f30f04644ef7cbbd14b.png",
+    "index.html": "/Radio/index.html",
+    "main.db798329.css.map": "/Radio/static/css/main.db798329.css.map",
+    "main.e88c83ce.js.map": "/Radio/static/js/main.e88c83ce.js.map",
+    "787.8ba94337.chunk.js.map": "/Radio/static/js/787.8ba94337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.e88c83ce.js"
+  ]
+}

@@ -14,7 +14,7 @@ import Home from './pages/Home';
 import Profiles from './pages/Profiles';
 import Schedule from './pages/Schedule';
 
-import staff from './staff';
+import staff from './assets/data/staff';
 
 // Header and Footer are global components
 // Profiles, Contact, Donate, History, Home, and Schedule are pages that need to be tied in with React Router

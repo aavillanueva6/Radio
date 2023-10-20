@@ -12,6 +12,7 @@ export default function History() {
         src={'https://picsum.photos/3000/1000/?blur=10'}
         alt="WETF Photo"
       />
+      <h1>WETF-LP History</h1>
       <TextSection histString={historyText} />
     </div>
   );

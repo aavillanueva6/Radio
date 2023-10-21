@@ -15,7 +15,6 @@ export default function Location({ text }) {
           <TextSection text={text} />
         </div>
       </div>
-      <p>Location component</p>
     </div>
   );
 }

@@ -2,7 +2,7 @@ import React from 'react';
 
 import TextSection from '../components/TextSection';
 
-import historyText from '../assets/data/history';
+import historyText from '../assets/data/historyText';
 
 export default function History() {
   return (
@@ -15,7 +15,9 @@ export default function History() {
         alt="WETF Photo"
       />
       <h1>WETF-LP History</h1>
-      <TextSection histString={historyText} />
+      <div className="text-start">
+        <TextSection text={historyText} />
+      </div>
       <h1>##### History Page #####</h1>
     </div>
   );

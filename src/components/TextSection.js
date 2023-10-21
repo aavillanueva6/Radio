@@ -1,10 +1,11 @@
 import React from 'react';
 
-export default function TextSection({ histString }) {
-  console.log(histString);
+export default function TextSection({ text }) {
   return (
-    <div>
-      <p>{histString}</p>
+    <div className="container-fluid">
+      {text.map((paragraph) => (
+        <p>{paragraph}</p>
+      ))}
     </div>
   );
 }

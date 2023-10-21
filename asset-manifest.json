@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/Radio/static/css/main.db798329.css",
-    "main.js": "/Radio/static/js/main.e88c83ce.js",
+    "main.js": "/Radio/static/js/main.0c4e04f7.js",
     "static/js/787.8ba94337.chunk.js": "/Radio/static/js/787.8ba94337.chunk.js",
+    "static/media/Bex-Taylor-horiz-homeFooter.jpg": "/Radio/static/media/Bex-Taylor-horiz-homeFooter.9ea26ff9f9e922f4c9ae.jpg",
     "static/media/wetf_logo.png": "/Radio/static/media/wetf_logo.3f30f04644ef7cbbd14b.png",
+    "static/media/Eliud-Villanueva.webp": "/Radio/static/media/Eliud-Villanueva.5e1477d3da11aaeae0df.webp",
+    "static/media/charlston-map.webp": "/Radio/static/media/charlston-map.f0700e60da4c5e23207b.webp",
     "index.html": "/Radio/index.html",
     "main.db798329.css.map": "/Radio/static/css/main.db798329.css.map",
-    "main.e88c83ce.js.map": "/Radio/static/js/main.e88c83ce.js.map",
+    "main.0c4e04f7.js.map": "/Radio/static/js/main.0c4e04f7.js.map",
     "787.8ba94337.chunk.js.map": "/Radio/static/js/787.8ba94337.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db798329.css",
-    "static/js/main.e88c83ce.js"
+    "static/js/main.0c4e04f7.js"
   ]
 }
